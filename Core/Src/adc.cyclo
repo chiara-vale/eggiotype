@@ -1,0 +1,7 @@
+../Core/Src/adc.c:37:6:MX_ADC1_Init	4
+../Core/Src/adc.c:101:6:MX_ADC3_Init	3
+../Core/Src/adc.c:157:6:HAL_ADC_MspInit	4
+../Core/Src/adc.c:215:6:HAL_ADC_MspDeInit	3
+../Core/Src/adc.c:255:6:HAL_ADC_ConvCpltCallback	1
+../Core/Src/adc.c:262:6:HAL_ADC_ErrorCallback	1
+../Core/Src/adc.c:270:10:CalcTemperature	6

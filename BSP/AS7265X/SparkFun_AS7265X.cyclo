@@ -1,0 +1,69 @@
+../BSP/AS7265X/SparkFun_AS7265X.cpp:32:1:AS7265X::AS7265X()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:39:9:bool AS7265X::begin(I2C_HandleTypeDef*)	3
+../BSP/AS7265X/SparkFun_AS7265X.cpp:74:9:uint8_t AS7265X::getDeviceType()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:78:9:uint8_t AS7265X::getHardwareVersion()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:83:9:uint8_t AS7265X::getMajorFirmwareVersion()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:91:9:uint8_t AS7265X::getPatchFirmwareVersion()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:99:9:uint8_t AS7265X::getBuildFirmwareVersion()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:108:9:bool AS7265X::isConnected()	2
+../BSP/AS7265X/SparkFun_AS7265X.cpp:117:6:void AS7265X::takeMeasurements()	3
+../BSP/AS7265X/SparkFun_AS7265X.cpp:134:6:void AS7265X::takeMeasurementsWithBulb()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:148:10:uint16_t AS7265X::getG()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:152:10:uint16_t AS7265X::getH()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:156:10:uint16_t AS7265X::getI()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:160:10:uint16_t AS7265X::getJ()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:164:10:uint16_t AS7265X::getK()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:168:10:uint16_t AS7265X::getL()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:174:10:uint16_t AS7265X::getR()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:178:10:uint16_t AS7265X::getS()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:182:10:uint16_t AS7265X::getT()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:186:10:uint16_t AS7265X::getU()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:190:10:uint16_t AS7265X::getV()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:194:10:uint16_t AS7265X::getW()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:200:10:uint16_t AS7265X::getA()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:204:10:uint16_t AS7265X::getB()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:208:10:uint16_t AS7265X::getC()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:212:10:uint16_t AS7265X::getD()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:216:10:uint16_t AS7265X::getE()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:220:10:uint16_t AS7265X::getF()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:226:10:uint16_t AS7265X::getChannel(uint8_t, uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:235:7:float AS7265X::getCalibratedA()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:239:7:float AS7265X::getCalibratedB()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:243:7:float AS7265X::getCalibratedC()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:247:7:float AS7265X::getCalibratedD()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:251:7:float AS7265X::getCalibratedE()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:255:7:float AS7265X::getCalibratedF()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:261:7:float AS7265X::getCalibratedG()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:265:7:float AS7265X::getCalibratedH()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:269:7:float AS7265X::getCalibratedI()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:273:7:float AS7265X::getCalibratedJ()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:277:7:float AS7265X::getCalibratedK()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:281:7:float AS7265X::getCalibratedL()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:286:7:float AS7265X::getCalibratedR()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:290:7:float AS7265X::getCalibratedS()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:294:7:float AS7265X::getCalibratedT()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:298:7:float AS7265X::getCalibratedU()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:302:7:float AS7265X::getCalibratedV()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:306:7:float AS7265X::getCalibratedW()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:312:7:float AS7265X::getCalibratedValue(uint8_t, uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:333:7:float AS7265X::convertBytesToFloat(uint32_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:344:6:void AS7265X::setMeasurementMode(uint8_t)	2
+../BSP/AS7265X/SparkFun_AS7265X.cpp:361:6:void AS7265X::setGain(uint8_t)	2
+../BSP/AS7265X/SparkFun_AS7265X.cpp:376:6:void AS7265X::setIntegrationCycles(uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:382:6:void AS7265X::enableInterrupt()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:391:6:void AS7265X::disableInterrupt()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:400:9:bool AS7265X::dataAvailable()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:407:6:void AS7265X::enableBulb(uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:418:6:void AS7265X::disableBulb(uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:433:6:void AS7265X::setBulbCurrent(uint8_t, uint8_t)	2
+../BSP/AS7265X/SparkFun_AS7265X.cpp:447:6:void AS7265X::selectDevice(uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:460:6:void AS7265X::enableIndicator()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:472:6:void AS7265X::disableIndicator()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:484:6:void AS7265X::setIndicatorCurrent(uint8_t)	2
+../BSP/AS7265X/SparkFun_AS7265X.cpp:499:9:uint8_t AS7265X::getTemperature(uint8_t)	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:506:7:float AS7265X::getTemperatureAverage()	2
+../BSP/AS7265X/SparkFun_AS7265X.cpp:518:6:void AS7265X::softReset()	1
+../BSP/AS7265X/SparkFun_AS7265X.cpp:527:9:uint8_t AS7265X::virtualReadRegister(uint8_t)	6
+../BSP/AS7265X/SparkFun_AS7265X.cpp:570:6:void AS7265X::virtualWriteRegister(uint8_t, uint8_t)	5
+../BSP/AS7265X/SparkFun_AS7265X.cpp:606:9:uint8_t AS7265X::readRegister(uint8_t)	4
+../BSP/AS7265X/SparkFun_AS7265X.cpp:624:9:bool AS7265X::writeRegister(uint8_t, uint8_t)	4

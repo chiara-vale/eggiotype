@@ -1,0 +1,12 @@
+../BSP/ov7670/ov7670.c:278:6:OV7670_Init	2
+../BSP/ov7670/ov7670.c:360:6:OV7670_Start	1
+../BSP/ov7670/ov7670.c:390:6:OV7670_Stop	2
+../BSP/ov7670/ov7670.c:407:6:OV7670_RegisterCallback	3
+../BSP/ov7670/ov7670.c:430:9:OV7670_isDriverBusy	1
+../BSP/ov7670/ov7670.c:451:6:HAL_DCMI_VsyncEventCallback	3
+../BSP/ov7670/ov7670.c:475:6:HAL_DCMI_FrameEventCallback	1
+../BSP/ov7670/ov7670.c:609:26:SCCB_Write	3
+../BSP/ov7670/ov7670.c:622:26:SCCB_Read	4
+../BSP/ov7670/ov7670.c:638:19:ov7670_write	1
+../BSP/ov7670/ov7670.c:643:19:ov7670_read	1
+../BSP/ov7670/ov7670.c:648:16:isFrameCaptured	1

@@ -1,0 +1,14 @@
+../BSP/TFT_LCD/lcd_io_spi_hal.c:208:20:LcdSpiMode8	4	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:215:20:LcdSpiMode16	4	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:327:10:LCD_IO_DmaBusy	16	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:342:6:FillConvert16to24	32	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:358:6:BitmapConvert16to24	24	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:373:6:BitmapConvert24to16	32	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:391:13:LCD_IO_DmaTxCpltCallback	16	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:399:6:HAL_SPI_TxCpltCallback	16	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:449:6:LCDWriteFillMultiData8and16	32	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:539:6:LCDWriteFillMultiData16to24	32	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:857:6:LCD_Delay	16	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:868:6:LCD_IO_Bl_OnOff	16	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:888:6:LCD_IO_Init	8	static
+../BSP/TFT_LCD/lcd_io_spi_hal.c:918:6:LCD_IO_Transaction	24	static
