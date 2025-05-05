@@ -1,0 +1,13 @@
+../debug_console/comm.c:19:6:CommUARTInit	3
+../debug_console/comm.c:87:6:CommTXTask	10
+../debug_console/comm.c:135:6:CommUARTPutChar	4
+../debug_console/comm.c:166:6:comm_task	1
+../debug_console/comm.c:170:6:enable_comm	1
+../debug_console/comm.c:174:6:remove_comm	1
+../debug_console/comm.c:179:6:comm_send	1
+../debug_console/comm.c:248:6:HAL_UART_TxCpltCallback	2
+../debug_console/comm.c:292:6:Process_ErrorCallback	3
+../debug_console/comm.c:308:6:HAL_UART_ErrorCallback	2
+../debug_console/comm.c:355:6:ProcessReceive	23
+../debug_console/comm.c:389:6:HAL_UART_RxCpltCallback	2
+../debug_console/comm.c:428:6:HAL_UART_RxHalfCpltCallback	1

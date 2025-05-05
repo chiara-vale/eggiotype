@@ -1,0 +1,12 @@
+../debug_console/debug_console.c:115:14:do_dump	48	static
+../debug_console/debug_console.c:149:6:debug_parse	40	static
+../debug_console/debug_console.c:535:6:debug_rcv	16	static
+../debug_console/debug_console.c:569:6:debug_idle	4	static
+../debug_console/debug_console.c:576:6:DebugInit	8	static
+../debug_console/debug_console.c:604:6:DebugTask	16	static
+../debug_console/debug_console.c:673:6:DebugPutChar	16	static
+../debug_console/debug_console.c:693:6:DebugSend	24	static
+../debug_console/debug_console.c:705:6:DebugPrint	96	static
+../debug_console/debug_console.c:717:6:DoDebugSerial	16	static
+../debug_console/debug_console.c:735:13:IsTest	4	static
+../debug_console/debug_console.c:741:5:__io_putchar	16	static

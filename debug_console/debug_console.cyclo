@@ -1,0 +1,12 @@
+../debug_console/debug_console.c:115:14:do_dump	7
+../debug_console/debug_console.c:149:6:debug_parse	46
+../debug_console/debug_console.c:535:6:debug_rcv	7
+../debug_console/debug_console.c:569:6:debug_idle	1
+../debug_console/debug_console.c:576:6:DebugInit	2
+../debug_console/debug_console.c:604:6:DebugTask	4
+../debug_console/debug_console.c:673:6:DebugPutChar	1
+../debug_console/debug_console.c:693:6:DebugSend	2
+../debug_console/debug_console.c:705:6:DebugPrint	1
+../debug_console/debug_console.c:717:6:DoDebugSerial	6
+../debug_console/debug_console.c:735:13:IsTest	1
+../debug_console/debug_console.c:741:5:__io_putchar	1
